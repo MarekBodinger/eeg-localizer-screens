@@ -1,0 +1,5 @@
+.rectangle polygon {
+    stroke: rgb(80, 80, 80);
+    stroke-width: 2px;
+    fill-opacity: 0.05;
+}

@@ -1,0 +1,86 @@
+{
+    "name": "eeg-localizer",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.36",
+        "@fortawesome/free-solid-svg-icons": "^5.15.4",
+        "@fortawesome/react-fontawesome": "^0.1.16",
+        "@heroicons/react": "^1.0.5",
+        "@react-three/drei": "^8.3.1",
+        "@react-three/fiber": "^7.0.24",
+        "@testing-library/jest-dom": "^5.15.0",
+        "@testing-library/react": "^11.2.7",
+        "@testing-library/user-event": "^12.8.3",
+        "@types/jest": "^26.0.24",
+        "@types/node": "^12.20.36",
+        "@types/react": "^17.0.34",
+        "@types/react-dom": "^17.0.11",
+        "@types/react-table": "^7.7.9",
+        "@types/robust-point-in-polygon": "^1.0.1",
+        "@types/styled-components": "^5.1.18",
+        "@types/wicg-file-system-access": "^2020.9.4",
+        "@use-gesture/react": "^10.1.4",
+        "@visx/clip-path": "^2.1.0",
+        "@visx/event": "^2.1.2",
+        "@visx/mock-data": "^2.1.2",
+        "@visx/responsive": "^2.4.1",
+        "@visx/scale": "^2.2.2",
+        "@visx/zoom": "^2.2.2",
+        "await-to-js": "^3.0.0",
+        "classnames": "^2.3.1",
+        "electron": "^16.0.7",
+        "get-port": "^6.0.0",
+        "idb-keyval": "^6.0.3",
+        "immer": "^8.0.1",
+        "md5-file": "^5.0.0",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-image-size": "^1.0.4",
+        "react-router-dom": "^6.2.2",
+        "react-scripts": "^5.0.0",
+        "react-select": "^5.2.2",
+        "react-table": "^7.7.0",
+        "robust-point-in-polygon": "^1.0.3",
+        "rxjs": "^7.5.2",
+        "styled-components": "^5.3.3",
+        "three": "^0.134.0",
+        "typescript": "^4.4.4",
+        "use-idb-keyval": "^0.3.12",
+        "use-immer": "^0.7.0",
+        "uuid": "^8.3.2",
+        "web-vitals": "^1.1.2",
+        "ws": "^8.4.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "@types/three": "^0.133.1",
+        "autoprefixer": "^10.4.0",
+        "postcss": "^8.4.5",
+        "prettier": "2.4.1",
+        "tailwindcss": "^3.0.7"
+    }
+}
