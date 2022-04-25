@@ -1,6 +1,6 @@
 # EEG localizer screens
 
-In order to work "model_mesh.obj", "model_mesh.obj.mtl" and "model_texture.jpg" of patien OP857 must be copied to "public" folder.
+In order to work "model_mesh.obj", "model_mesh.obj.mtl" and "model_texture.jpg" of patient OP857 must be copied to "public" folder.
 
 ## Available Scripts
 
