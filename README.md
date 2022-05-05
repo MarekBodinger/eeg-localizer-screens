@@ -2,6 +2,8 @@
 
 In order to work "model_mesh.obj", "model_mesh.obj.mtl" and "model_texture.jpg" of patient OP857 must be copied to "public" folder.
 
+There are three screens implemented. Fiducial selection takes no input data, the screen is located in `src\screens\FiducialsSelectionScreen.tsx`. The second and the third screen are fed by mock data (`src\screens\SecondScreenTestWrapper.tsx` and `src\screens\ThirdScreenTestWrapper.tsx`) and are located in `src\screens\SecondScreen.tsx` and `src\screens\ThirdScreen.tsx`.
+
 ## Available Scripts
 
 In the project directory, you can run:
